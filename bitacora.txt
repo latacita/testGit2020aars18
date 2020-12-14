@@ -1,11 +1,16 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):Rodríguez Solar, Aarón                %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (01)   clone
+ (02)   branch + checkout
+ (03)   ----
+ (04)   ----
+ (05)   add + commit
  (06)   Doble click sobre Commit      Realizado desde SourceTree
  (07)   branch + Checkout
  (08)   ----
