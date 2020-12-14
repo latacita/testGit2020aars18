@@ -22,3 +22,6 @@
  (12)                                 La primera por fast-forward y
                                       la segunda recursiva
  (13)   add + commit
+ (14)   merge                         recursivo (--no-ff)
+ (15)   merge                         recursivo (--no-ff)
+ (16)   add + commit
