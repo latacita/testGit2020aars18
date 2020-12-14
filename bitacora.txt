@@ -25,3 +25,8 @@
  (14)   merge                         recursivo (--no-ff)
  (15)   merge                         recursivo (--no-ff)
  (16)   add + commit
+ (17)   tag
+ (18)   push                          desde SourceTree con la opcion
+                                      "all tags", haciendo previamente el pull
+                                      y solucionando los conflictos
+ (19)  add + commit                    
