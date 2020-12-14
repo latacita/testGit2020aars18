@@ -6,6 +6,10 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (06)   Doble click sobre Commit      Realizado desde SourceTree
+ (07)   branch + Checkout
+ (08)   ----
+ (09)   add + commit
  (10)   Checkout
  (11)   push y seleccionar solo       Desde SourceTree
         la rama DatosPersonales para
